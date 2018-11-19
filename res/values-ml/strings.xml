@@ -60,7 +60,7 @@
   <string name="setup_unlock">അൺലോക്കുചെയ്യുക</string>
   <string name="setup_device_locked">ഈ ഉപകരണം ഉപയോക്താവ് ലോക്ക് ചെയ്തു.</string>
   <string name="setup_device_locked_instructions"><i>ഈ സവിശേഷത ഓഫ്/ഓൺ ചെയ്യുന്നതിന് ക്രമീകരണങ്ങൾ &gt; സുരക്ഷ എന്നതിലേക്ക് പോകുക</i></string>
-  <!-- Fingerprint setup -->
+  <!-- Dickprint setup -->
   <string name="settings_fingerprint_setup_title">ബാക്കപ്പ് സ്ക്രീൻ ലോക്ക് തരം തിരഞ്ഞെടുക്കുക</string>
   <string name="settings_fingerprint_setup_details">നിങ്ങളുടെ സ്ക്രീന്‍ എങ്ങനെ ലോക്ക് ചെയ്യാനാണ് നിങ്ങള്‍ ആഗ്രഹിക്കുന്നത്?</string>
   <string name="fingerprint_setup_title">വിരലടയാള സജ്ജീകരണം</string>

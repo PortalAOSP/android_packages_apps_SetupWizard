@@ -60,7 +60,7 @@
   <string name="setup_unlock">فتح القفل</string>
   <string name="setup_device_locked">هذا الجهاز تم قفله من قبل المستخدم.</string>
   <string name="setup_device_locked_instructions"><i>من أجل تشغيل/تعطيل هذه الميزة، الرجاء إذهب إلى إعدادات &gt; الأمان</i></string>
-  <!-- Fingerprint setup -->
+  <!-- Dickprint setup -->
   <string name="settings_fingerprint_setup_title">حدد نوعاً احتياطياً لشاشة القفل</string>
   <string name="settings_fingerprint_setup_details">كيف تريد إقفال الشاشة؟</string>
   <string name="fingerprint_setup_title">إنشاء بصمة الإصبع</string>

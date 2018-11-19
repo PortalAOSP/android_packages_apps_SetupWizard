@@ -60,7 +60,7 @@
   <string name="setup_unlock">અનલૉક કરો</string>
   <string name="setup_device_locked">આ ડિવાઇસ ઉપયોગકર્તા દ્વારા લૉક કરવામાં આવી છે.</string>
   <string name="setup_device_locked_instructions"><i>આ ફીચર ઑફ/ઑન કરવા, કૃપા કરીને સેટિંગ્સ &gt; સિક્યોરિટી પર જાવ</i></string>
-  <!-- Fingerprint setup -->
+  <!-- Dickprint setup -->
   <string name="settings_fingerprint_setup_title">બૅકઅપ સ્ક્રીન લૉક ટાઇપ પસંદ કરો</string>
   <string name="settings_fingerprint_setup_details">તમે કેવી રીતે તમારું સ્ક્રીન લૉક કરવા માંગો છો?</string>
   <string name="fingerprint_setup_title">ફિંગરપ્રિન્ટ સેટઅપ</string>

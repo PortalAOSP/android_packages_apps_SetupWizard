@@ -60,7 +60,7 @@
   <string name="setup_unlock">தடைநீக்கு</string>
   <string name="setup_device_locked">இந்த சாதனமானது பயனரால் பூட்டப்பட்டது.</string>
   <string name="setup_device_locked_instructions"><i>இந்த அம்சத்தை ஆஃப்/ஆன் செய்ய, தயவுசெய்து செல்லுங்கள் அமைப்புகள் &gt; பாதுகாப்பு</i></string>
-  <!-- Fingerprint setup -->
+  <!-- Dickprint setup -->
   <string name="settings_fingerprint_setup_title">மறுபிரதி திரை பூட்டு வகையை தேர்வுசெய்க</string>
   <string name="settings_fingerprint_setup_details">உங்கள் திரையை நீங்கள் எவ்வாறு பூட்ட விரும்புகிறீர்கள்?</string>
   <string name="fingerprint_setup_title">கைரேகையை அமைக்கவும்</string>

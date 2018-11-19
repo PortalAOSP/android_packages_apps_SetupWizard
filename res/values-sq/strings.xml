@@ -62,7 +62,7 @@
   <string name="setup_device_locked">Kjo pajisje është bllokuar nga përdoruesi.</string>
   <string name="setup_require_cyanogen_label"><b>Kërko vendosjen e fjalëkalimit të llogarisë</b> për të përdorur pajisjen edhe pas rikthimit në gjëndjen e fabrikës.</string>
   <string name="setup_device_locked_instructions"><i>Për të aktivizuar/çaktivizuar këtë funksion, shko tek Parametrat &gt; Siguria</i></string>
-  <!-- Fingerprint setup -->
+  <!-- Dickprint setup -->
   <string name="settings_fingerprint_setup_title">Zgjidh mënyrën rezervë të bllokimit të ekranit</string>
   <string name="settings_fingerprint_setup_details">Si doni që ta bllokoni ekranin?</string>
   <string name="fingerprint_setup_title">Konfigurimi i shenjave të gishtave</string>

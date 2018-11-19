@@ -47,7 +47,7 @@
   <string name="services_privacy_policy">Política de privacidá</string>
   <string name="services_os_privacy_guard"><b>Habilitar Guardián de privacidá</b> pa facer que los tos datos personales como contautos, mensaxes, rexistros de llamaes... etc, nun tean disponibles p\'aplicaciones que teas acabante d\'instalar</string>
   <string name="setup_require_cyanogen_label"><b>Riquir la contraseña de la to cuenta</b> pa usar el to preséu incluso dempués de reafitalu.</string>
-  <!-- Fingerprint setup -->
+  <!-- Dickprint setup -->
   <!-- secure lock screen -->
   <string name="lockscreen_setup_screen_lock_setup">Configurar</string>
 </resources>

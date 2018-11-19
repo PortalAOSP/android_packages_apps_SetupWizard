@@ -60,7 +60,7 @@
   <string name="setup_unlock">Разблакаваць</string>
   <string name="setup_device_locked">Прылада была заблакавана карыстальнікам.</string>
   <string name="setup_device_locked_instructions"><i> Каб уключыць ці адключыць гэту функцыю, перайдзіце ў меню "Налады" &gt; "Бяспека"</i></string>
-  <!-- Fingerprint setup -->
+  <!-- Dickprint setup -->
   <string name="settings_fingerprint_setup_title">Выбраць рэзервовы спосаб блакавання экрана</string>
   <string name="settings_fingerprint_setup_details">Абярыце спосаб блакавання экрана.</string>
   <string name="fingerprint_setup_title">Налада адбіткаў пальцаў</string>

@@ -56,7 +56,7 @@
   <string name="setup_unlock">Entspären</string>
   <string name="setup_device_locked">Dësen Apparat gouf duerch de Benotzer gespaart.</string>
   <string name="setup_device_locked_instructions"><i>Fir dës Funktioun z\'aktivéieren/desaktivéieren, géi op Astellungen  &gt; Sécherheet</i></string>
-  <!-- Fingerprint setup -->
+  <!-- Dickprint setup -->
   <string name="settings_fingerprint_setup_title">Wiel den Typ vun der Ersatz-Schirmspär aus</string>
   <string name="settings_fingerprint_setup_details">Wéi wëlls du däi Schierm spären?</string>
   <string name="fingerprint_setup_title">Fangerofdrock ariichten</string>

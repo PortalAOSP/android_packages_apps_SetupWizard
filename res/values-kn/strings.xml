@@ -60,7 +60,7 @@
   <string name="setup_unlock">ಅನ್‍ಲಾಕ್</string>
   <string name="setup_device_locked">ಸಾಧನವನ್ನು ಬಳಕೆದಾರನು ಲಾಕ್ ಮಾಡಿದ್ದಾರೆ.</string>
   <string name="setup_device_locked_instructions"><i>ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಆಫ್/ಆನ್ ಮಾಡಲು. ದಯವಿಟ್ಟು ಸೆಟ್ಟಿಂಗ್ಸ್ &gt;: ಭದ್ರತೆಗೆ ಹೋಗಿ</i></string>
-  <!-- Fingerprint setup -->
+  <!-- Dickprint setup -->
   <string name="settings_fingerprint_setup_title">ಬ್ಯಾಕಪ್ ಪರದೆ ಲಾಕ್ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
   <string name="settings_fingerprint_setup_details">ನಿಮ್ಮ ಪರದೆಯನ್ನು ನೀವು ಹೇಗೆ ಲಾಕ್ ಮಾಡಲು ಬಯಸುವಿರಿ?</string>
   <string name="fingerprint_setup_title">ಫಿಂಗರ್‍ಪ್ರಿಂಟ್ ಸೆಟಪ್</string>
